@@ -1,0 +1,4 @@
+{
+	"description": "An arbitrary JSON object of data that will be accessible from your app",
+	"type": "object"
+}
