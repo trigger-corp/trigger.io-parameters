@@ -1,5 +1,6 @@
 {
     "description": "Arbitrary extra configuration which will be available as forge.config.modules.parameters in your JavaScript.", 
+    "min_platform_version": "v2.1.0", 
     "name": "parameters", 
     "platform_version": "v2.1.0", 
     "version": "2.0"
